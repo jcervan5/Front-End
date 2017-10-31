@@ -563,3 +563,7 @@ ul.social-buttons {
   border-radius: 100%;
   padding-left: 80px !important;
 }
+
+#guests {
+  width: 50% !important;
+}
